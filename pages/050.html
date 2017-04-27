@@ -11,7 +11,64 @@
         <script src="../../Scripts/jquery-3.1.1.min.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script><script>
+               var counter =1;
+                function a(){
+                    counter++;
+                    if(counter == 2){
+                    var img=document.getElementById("img");
+                    img.setAttribute("src","../pics/0519.jpg");
+
+
+
+
+
+                    
+
+                    var parent = document.getElementById("parent");
+                    var x = document.getElementById("txt");
+                    var y = document.createElement("p");
+                    y.setAttribute("class","tab-pane");
+                    //y.setAttribute("id","txt");    
+                    var z = document.createTextNode("sdvgrtbhrnbgnbrgbrgbtebefbvfdbyjuko,ikujnyhbtgvfcdxinthbgrvfcimyntbgvfdcstyntb");  
+                    y.appendChild(z);
+                    parent.replaceChild(y,x);}
+
+
+
+
+
+
+
+
+                    else if(counter == 3){
+                    var img=document.getElementById("img");
+                    img.setAttribute("src","../pics/0520.jpg");
+
+                     
+
+
+
+
+                     }
+                    else {counter = 3;}
+                     } 
+                function b(){
+                    counter--;
+                    if(counter == 1){
+                    var img=document.getElementById("img");
+                    img.setAttribute("src","../pics/0518.jpg");}
+                    else if(counter == 2){
+                    var img=document.getElementById("img");
+                    img.setAttribute("src","../pics/0519.jpg");}
+                    else if(counter == 3){
+                    var img=document.getElementById("img");
+                    img.setAttribute("src","../pics/0520.jpg");}
+                    else {counter = 1;}
+                     } 
+               
+        </script>
+
     </head>
     <body>
        <div style="padding-bottom: 10px; padding-top: 10px; padding-left: 10px; height: 200px">
@@ -70,13 +127,16 @@
                 
                 <div class="col-lg-6 col-md-5 col-sm-10" >
                     <center>
-                        <img src="../pics/0518.jpg" class="img-responsive" style="background-color: white"/>
+                        <img src="../pics/0518.jpg" class="img-responsive" style="background-color: white" id="img"/>
                     </center>
 
                     <ul class="pager">
                         
                         <li>
-                            <a href="050.2.html">Next</a>
+                            <input type="button"  value="Previos" onclick="b();"/>
+                        </li>
+                        <li>
+                            <input type="button"  value="Next" onclick="a();"/>
                         </li>
                     </ul>
                 </div>
@@ -84,8 +144,8 @@
 
                 <div class="col-lg-6 col-md-5 col-sm-10">
                     <div class="col-lg-6 col-md-12 col-sm-12" style="height: 769px; width: 550px;background-color: white">
-                        <center>
-                            <p class="tab-pane">
+                        <center id="parent">
+                            <p class="tab-pane" id="txt">
                                 {1} ق وَالْقُرْآنِ الْمَجِيدِ
 سُورَة ق [ مَكِّيَّة إلَّا آيَة 38 فَمَدَنِيَّة وآياتا 45 ]
 
@@ -150,7 +210,7 @@
         <div>
             <center>
                 <audio controls="controls" style="width: 500px">
-                    <source src="../sound/050 - Part1.mp3" type="audio/mpeg" />
+                    <source src="../sound/050.mp3" type="audio/mpeg" />
                 </audio>
             </center>
         </div>
