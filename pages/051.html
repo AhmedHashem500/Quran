@@ -11,43 +11,171 @@
         <script src="../../Scripts/jquery-3.1.1.min.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-        <script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script><script>
                var counter =1;
                 function a(){
                     counter++;
                     if(counter == 2){
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/0521.jpg");}
+                    
                     else if(counter == 3){
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/0522.jpg");}
-                    else if(counter == 4){
+
+                     else if(counter == 4){
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/0523.jpg");}
-                    else {counter = 4;}
-                     } 
+
+                    else {counter = 3;}
+            } 
+                
                 function b(){
                     counter--;
                     if(counter == 1){
+                        //img
                     var img=document.getElementById("img");
-                    img.setAttribute("src","../pics/0520.1.jpg");}
+                    img.setAttribute("src","../pics/0520.1.jpg");
+                       //txt
+                    document.getElementById("txt").innerHTML=" <mark></mark><br> <br><br>";
+                }
+
                     else if(counter == 2){
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/0521.jpg");}
+                    
                     else if(counter == 3){
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/0522.jpg");}
+
                     else if(counter == 4){
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/0523.jpg");}
+                    
                     else {counter = 1;}
-                     } 
+            } 
+                /*function s1(){
+                      var audio=document.getElementById("audio");
+                      audio.setAttribute("src","../sound/050.mp3");
+                   }   */
+                function s2(){
+
+                    var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/51/1.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+                   }   
+                function s3(){
+                    var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/51/2.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+                      }
+
+                function s4(){
+                      var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/51/3.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+                      
+                   }   
                
+                function s5(){
+                      var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/51/4.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+
+                   }
+                function s6(){
+                      var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/51/5.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+
+                   }
+                function s7(){
+                      var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/51/6.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+
+                   } 
+                function s8(){
+                      var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/51/7.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+
+                   }                           
+ 
         </script>
+
     </head>
-    <body>
-        <div style="padding-bottom: 10px; padding-top: 10px; padding-left: 10px; height: 200px">
+    <body >
+       <div style="padding-bottom: 10px; padding-top: 10px; padding-left: 10px; height: 200px">
             <span class="text-left">
                 <a href=" http://ar.islamway.com/quranflash/index.php">
                     <img class="icon" src="../../pics/live_logo.png" id="start"/>
@@ -82,15 +210,14 @@
                         </div>
                         <div id="collapse1" class="panel-collapse collapse" style="background-color: white">
                             <ul class="list-group list-inline">
-                                <li class="list-group-item active">name</li>
-                                <li class="list-group-item">name</li>
-                                <li class="list-group-item">name</li>
-                                <li class="list-group-item">name</li>
-                                <li class="list-group-item">name</li>
-                                <li class="list-group-item">name</li>
-                                <li class="list-group-item">name</li>
-                                <li class="list-group-item">name</li>
-                                <li class="list-group-item">name</li>
+                               <!-- <li class="list-group-item"><input type="button" value="البراك"  onclick="s1();"/></li>!-->
+                                <li class="list-group-item"><input type="button" value="الحصري" onclick="s2();"/></li>
+                                <li class="list-group-item"><input type="button" value="السديس" onclick="s3();"/></li>
+                                <li class="list-group-item"><input type="button" value="الطبلاوي" onclick="s4();"/></li>
+                                <li class="list-group-item"><input type="button" value="العجمي"  onclick="s5();"/></li>
+                                <li class="list-group-item"><input type="button" value="المعيقلي" onclick="s6();"/></li>
+                                <li class="list-group-item"><input type="button" value="عبد الباسط" onclick="s7();"/></li>
+                                <li class="list-group-item"><input type="button" value="محمد جبريل" onclick="s8();"/></li>
                             </ul>
                         </div>
                     </div>
@@ -107,6 +234,7 @@
                     </center>
 
                     <ul class="pager">
+                        
                         <li>
                             <input type="button"  value="Previos" onclick="b();"/>
                         </li>
@@ -119,27 +247,9 @@
 
                 <div class="col-lg-6 col-md-5 col-sm-10">
                     <div class="col-lg-6 col-md-12 col-sm-12" style="height: 769px; width: 550px;background-color: white">
-                        <center>
-                            <p class="tab-pane">
-                                {1} وَالذَّارِيَاتِ ذَرْوًا
-سُورَة الذَّارِيَات [ مَكِّيَّة وَآيَاتهَا سِتُّونَ ]
-
-"وَالذَّارِيَات" الرِّيَاح تَذْرُو التُّرَاب وَغَيْره "ذَرْوًا" مَصْدَر وَيُقَال تَذْرِيهِ ذَرْيًا : تَهُبّ بِهِ
-
-{2} فَالْحَامِلَاتِ وِقْرًا
-"فَالْحَامِلَات" السُّحُب تَحْمِل الْمَاء "وِقْرًا" ثِقَلًا مَفْعُول الْحَامِلَات
-
-{3} فَالْجَارِيَاتِ يُسْرًا
-"فَالْجَارِيَات" السُّفُن تَجْرِي عَلَى وَجْه الْمَاء "يُسْرًا" بِسُهُولَةٍ مَصْدَر فِي مَوْضِع الْحَال أَيْ مُيَسَّرَة
-
-{4} فَالْمُقَسِّمَاتِ أَمْرًا
-"فَالْمُقَسِّمَات أَمْرًا" الْمَلَائِكَة تَقْسِم الْأَرْزَاق وَالْأَمْطَار وَغَيْرهَا بَيْن الْبِلَاد وَالْعِبَاد
-
-{5} إِنَّمَا تُوعَدُونَ لَصَادِقٌ
-"إنَّمَا تُوعَدُونَ" مَا مَصْدَرِيَّة أَيْ وَعْدهمْ بِالْبَعْثِ وَغَيْره "لَصَادِق" لَوَعْد صَادِق
-
-{6} وَإِنَّ الدِّينَ لَوَاقِعٌ
-"وَإِنَّ الدِّين" الْجَزَاء بَعْد الْحِسَاب "لَوَاقِع" لَا مَحَالَة
+                        <center id="parent">
+                            <p class="tab-pane" id="txt">
+                                
                             </p>
                         </center>
                     </div>
@@ -156,10 +266,10 @@
         </div>
         <div class="row"> </div>
         <div>
-            <center>
-                <audio controls="controls" style="width: 500px">
-                    <source src="../sound/051.mp3" type="audio/mpeg" />
-                </audio>
+            <center id="con">
+                <audio controls="controls" style="width: 500px" id="audio">
+                    <source src="../sound/al_agamy_050.mp3" type="audio/mpeg" id="source" />
+                </audio>          <!-- replace chiled !-->
             </center>
         </div>
         <footer>
