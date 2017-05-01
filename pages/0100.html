@@ -164,6 +164,24 @@
                     parent.replaceChild(audio_new,audio_old);
                    }                           
  
+               var counter =1;
+                function a(){
+                    counter++;
+                    if(counter == 2){
+                        //img
+                    var img=document.getElementById("img");
+                    img.setAttribute("src","../pics/0603.jpg");
+                    }
+                }
+             function b(){
+                    counter--;
+                    if(counter == 1){
+                        //img
+                    var img=document.getElementById("img");
+                    img.setAttribute("src","../pics/0602.jpg");
+                    }
+             }
+            
             
             
             
@@ -200,17 +218,20 @@
                 
                 <div class="col-lg-6 col-md-5 col-sm-10" >
                     <center>
-                        <img src="../pics/0604.jpg" class="img-responsive" style="background-color: white"/> 
-                         <img src="../pics/0605.jpg" class="img-responsive" style="background-color: white"/> 
+                        <img src="../pics/0602.jpg" class="img-responsive" style="background-color: white" id="img"/> 
+                       
                     </center>
 
                     <ul class="pager">
-                        <li>
-                            <a href="#">Previous</a>
+                        
+                    <ul class="pager">
+                          <li>
+                            <input type="button"  value="Previous" onclick="b();"/>
                         </li>
                         <li>
-                            <a href="#">Next</a>
+                            <input type="button"  value="Next" onclick="a();"/>
                         </li>
+                    </ul>
                     </ul>
                 </div>
                 

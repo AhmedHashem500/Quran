@@ -25,265 +25,265 @@ var counter =1;
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img5.jpg");
                        //txt
-                    document.getElementById("txt").innerHTML="";}
+                    document.getElementById("txt").innerHTML='<mark>{30} وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً قَالُوا أَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ</mark><br>وَاذْكُرْ يَا مُحَمَّد إذْ " قَالَ رَبّك لِلْمَلَائِكَةِ إنِّي جَاعِل فِي الْأَرْض خَلِيفَة" يَخْلُفنِي فِي تَنْفِيذ أَحْكَامِي فِيهَا وَهُوَ آدَم "قَالُوا أَتَجْعَلُ فِيهَا مَنْ يُفْسِد فِيهَا" بِالْمَعَاصِي "وَيَسْفِك الدِّمَاء" يُرِيقهَا بِالْقَتْلِ كَمَا فَعَلَ بَنُو الْجَانّ وَكَانُوا فِيهَا فَلَمَّا أَفْسَدُوا أَرْسَلَ اللَّه عَلَيْهِمْ الْمَلَائِكَة فَطَرَدُوهُمْ إلَى الْجَزَائِر وَالْجِبَال "وَنَحْنُ نُسَبِّح" مُتَلَبِّسِينَ "بِحَمْدِك" أَيْ نَقُول سُبْحَان اللَّه "وَنُقَدِّس لَك" نُنَزِّهك عَمَّا لَا يَلِيق بِك فَاللَّام زَائِدَة وَالْجُمْلَة حَال أَيْ فَنَحْنُ أَحَقّ بِالِاسْتِخْلَافِ قَالَ تَعَالَى "إنِّي أَعْلَم مَا لَا تَعْلَمُونَ" مِنْ الْمَصْلَحَة فِي اسْتِخْلَاف آدَم وَأَنَّ ذُرِّيَّته فِيهِمْ الْمُطِيع وَالْعَاصِي فَيَظْهَر الْعَدْل بَيْنهمْ فَقَالُوا لَنْ يَخْلُق رَبّنَا خَلْقًا أَكْرَم عَلَيْهِ مِنَّا وَلَا أَعْلَم لِسَبْقِنَا لَهُ وَرُؤْيَتنَا مَا لَمْ يَرَهُ فَخَلَقَ اللَّه تَعَالَى آدَم مِنْ أَدِيم الْأَرْض أَيْ وَجْههَا بِأَنْ قَبَضَ مِنْهَا قَبْضَة مِنْ جَمِيع أَلْوَانهَا وَعُجِنَتْ بِالْمِيَاهِ الْمُخْتَلِفَة وَسَوَّاهُ وَنَفَخَ فِيهِ الرُّوح فَصَارَ حَيَوَانًا حَسَّاسًا بَعْد أَنْ كَانَ جَمَادًا<br><br><mark>{31} وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَاءِ هَؤُلَاءِ إِنْ كُنْتُمْ صَادِقِينَ</mark><br>"وَعَلَّمَ آدَمَ الْأَسْمَاءَ" أَيْ أَسَمَاء الْمُسَمَّيَات "كُلّهَا" بِأَنْ أَلْقَى فِي قَلْبه عِلْمهَا "ثُمَّ عَرَضَهُمْ" أَيْ الْمُسَمَّيَات وَفِيهِ تَغْلِيب الْعُقَلَاء "عَلَى الْمَلَائِكَة فَقَالَ " لَهُمْ تَبْكِيتًا "أَنْبِئُونِي" أَخْبِرُونِي "بِأَسْمَاءِ هَؤُلَاءِ" الْمُسَمَّيَات "إنْ كُنْتُمْ صَادِقِينَ" فِي أَنِّي لَا أَخْلُق أَعْلَم مِنْكُمْ أَوْ أَنَّكُمْ أَحَقّ بِالْخِلَافَةِ وَجَوَاب الشَّرْط دَلَّ عَلَيْهِ مَا قَبْله<br><br><mark>{32} قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ</mark><br>"قَالُوا سُبْحَانك" تَنْزِيهًا لَك عَنْ الِاعْتِرَاض عَلَيْك "لَا عِلْم لَنَا إلَّا مَا عَلَّمْتنَا" إيَّاهُ "إنَّك أَنْت" تَأْكِيد لِلْكَافِ "الْعَلِيم الْحَكِيم" الَّذِي لَا يَخْرُج شَيْء عَنْ عِلْمه وَحِكْمَته<br><br><mark>{33} قَالَ يَا آدَمُ أَنْبِئْهُمْ بِأَسْمَائِهِمْ فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ</mark><br>" قَالَ " تَعَالَى "يَا آدَم أَنْبِئْهُمْ" أَيْ الْمَلَائِكَة "بِأَسْمَائِهِمْ" الْمُسَمَّيَات فَسَمَّى كُلّ شَيْء بِاسْمِهِ وَذَكَرَ حِكْمَته الَّتِي خُلِقَ لَهَا "فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ قَالَ " تَعَالَى لَهُمْ مُوَبِّخًا "أَلَمْ أَقُلْ لَكُمْ إنِّي أَعْلَم غَيْب السَّمَاوَات وَالْأَرْض" مَا غَابَ فِيهِمَا "وَأَعْلَم مَا تُبْدُونَ" مَا تُظْهِرُونَ مِنْ قَوْلكُمْ أَتَجْعَلُ فِيهَا إلَخْ "وَمَا كُنْتُمْ تَكْتُمُونَ" تُسِرُّونَ مِنْ قَوْلكُمْ لَنْ يَخْلُق أَكْرَم عَلَيْهِ مِنَّا وَلَا أَعْلَم<br><br><mark>{34} وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ</mark><br>" وَ " اُذْكُرْ " إذْ قُلْنَا لِلْمَلَائِكَةِ اُسْجُدُوا لِآدَم " سُجُود تَحِيَّة بِالِانْحِنَاءِ "فَسَجَدُوا إلَّا إبْلِيس" هُوَ أَبُو الْجِنّ كَانَ بَيْن الْمَلَائِكَة "أَبَى" امْتَنَعَ مِنْ السُّجُود "وَاسْتَكْبَرَ" تَكَبَّرَ عَنْهُ وَقَالَ : أَنَا خَيْر مِنْهُ "وَكَانَ مِنْ الْكَافِرِينَ" فِي عِلْم اللَّه<br><br><mark>{35} وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ</mark><br>"وَقُلْنَا يَا آدَم اُسْكُنْ أَنْت" تَأْكِيد لِلضَّمِيرِ الْمُسْتَتِر لِيَعْطِف عَلَيْهِ "وَزَوْجك" حَوَّاء بِالْمَدِّ وَكَانَ خَلَقَهَا مِنْ ضِلْعه الْأَيْسَر "الْجَنَّة وَكُلَا مِنْهَا" أَكْلًا "رَغَدًا" وَاسِعًا لَا حَجْر فِيهِ "حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَة" بِالْأَكْلِ مِنْهَا وَهِيَ الْحِنْطَة أَوْ الْكَرْم أَوْ غَيْرهمَا "فَتَكُونَا" فَتَصِيرَا "مِنْ الظَّالِمِينَ" الْعَاصِينَ<br><br><mark>{36} فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ</mark><br>"فَأَزَلَّهُمَا الشَّيْطَان" إبْلِيس أَذْهَبهُمَا وَفِي قِرَاءَة فَأَزَالهُمَا نَحَّاهُمَا "عَنْهَا" أَيْ الْجَنَّة بِأَنْ قَالَ لَهُمَا : هَلْ أَدُلّكُمَا عَلَى شَجَرَة الْخُلْد وَقَاسَمَهُمَا بِاَللَّهِ إنَّهُ لَهُمَا لَمِنْ النَّاصِحِينَ فَأَكَلَا مِنْهَا "فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ" مِنْ النَّعِيم "وَقُلْنَا اهْبِطُوا" إلَى الْأَرْض أَيْ أَنْتُمَا بِمَا اشْتَمَلْتُمَا عَلَيْهِ مِنْ ذُرِّيَّتكُمَا "بَعْضكُمْ" بَعْض الذُّرِّيَّة "لِبَعْضٍ عَدُوّ" مِنْ ظُلْم بَعْضكُمْ بَعْضًا "وَلَكُمْ فِي الْأَرْض مُسْتَقَرّ" مَوْضِع قَرَار "وَمَتَاع" مَا تَتَمَتَّعُونَ بِهِ مِنْ نَبَاتهَا "إلَى حِين" وَقْت انْقِضَاء آجَالكُمْ<br><br><mark>{37} فَتَلَقَّى آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ</mark><br>"فَتَلَقَّى آدَم مِنْ رَبّه كَلِمَات" أَلْهَمَهُ إيَّاهَا وَفِي قِرَاءَة بِنَصْبِ آدَم وَرَفْع كَلِمَات أَيْ جَاءَهُ وَهِيَ رَبّنَا ظَلَمْنَا أَنْفُسنَا الْآيَة فَدَعَا بِهَا "فَتَابَ عَلَيْهِ" قَبِلَ تَوْبَته "إنَّهُ هُوَ التَّوَّاب" عَلَى عِبَاده "الرَّحِيم" بِهِمْ<br><br>';}
                     else if(counter == 6){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img6.jpg");
                        //txt
-					document.getElementById("txt").innerHTML="";}
+					document.getElementById("txt").innerHTML='<mark>{38} قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي هُدًى فَمَنْ تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ</mark><br>"قُلْنَا اهْبِطُوا مِنْهَا" مِنْ الْجَنَّة "جَمِيعًا" كَرَّرَهُ لِيَعْطِف عَلَيْهِ "فَإِمَّا" فِيهِ إدْغَام نُون إنْ الشَّرْطِيَّة فِي مَا الزَّائِدَة "يَأْتِيَنكُمْ مِنِّي هُدًى" كِتَاب وَرَسُول "فَمَنْ تَبِعَ هُدَايَ" فَآمَنَ بِي وَعَمِلَ بِطَاعَتِي "فَلَا خَوْف عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ" فِي الْآخِرَة بِأَنْ يَدْخُلُوا الْجَنَّة<br><br><mark>{39} وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ</mark><br>"وَاَلَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا" كُتُبنَا "أُولَئِكَ أَصْحَاب النَّار هُمْ فِيهَا خَالِدُونَ" مَاكِثُونَ أَبَدًا لَا يَفْنَوْنَ وَلَا يَخْرُجُونَ<br><br><mark>{40} يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ وَإِيَّايَ فَارْهَبُونِ</mark><br>"يَا بَنِي إسْرَائِيل" أَوْلَاد يَعْقُوب "اُذْكُرُوا نِعْمَتِي الَّتِي أَنْعَمْت عَلَيْكُمْ" أَيْ عَلَى آبَائِكُمْ مِنْ الْإِنْجَاء مِنْ فِرْعَوْن وَفَلْق الْبَحْر وَتَظْلِيل الْغَمَام وَغَيْر ذَلِكَ بِأَنْ تَشْكُرُوهَا بِطَاعَتِي "وَأَوْفُوا بِعَهْدِي" الَّذِي عَهِدْته إلَيْكُمْ مِنْ الْإِيمَان بِمُحَمَّدٍ "أُوفِ بِعَهْدِكُمْ" الَّذِي عَهِدْت إلَيْكُمْ مِنْ الثَّوَاب عَلَيْهِ بِدُخُولِ الْجَنَّة "وَإِيَّايَ فَارْهَبُونِي" خَافُونِ فِي تَرْك الْوَفَاء بِهِ دُون غَيْرِي<br><br><mark>{41} وَآمِنُوا بِمَا أَنْزَلْتُ مُصَدِّقًا لِمَا مَعَكُمْ وَلَا تَكُونُوا أَوَّلَ كَافِرٍ بِهِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَإِيَّايَ فَاتَّقُونِ</mark><br>"وَآمِنُوا بِمَا أَنْزَلْت" مِنْ الْقُرْآن "مُصَدِّقًا لِمَا مَعَكُمْ" مِنْ التَّوْرَاة بِمُوَافَقَتِهِ لَهُ فِي التَّوْحِيد وَالنُّبُوَّة "وَلَا تَكُونُوا أَوَّل كَافِر بِهِ" مِنْ أَهْل الْكِتَاب لِأَنَّ خَلْفكُمْ تَبَع لَكُمْ فَإِثْمهمْ عَلَيْكُمْ "وَلَا تَشْتَرُوا" تَسْتَبْدِلُوا "بِآيَاتِي" الَّتِي فِي كِتَابكُمْ مِنْ نَعْت مُحَمَّد صَلَّى اللَّه عَلَيْهِ وَسَلَّمَ "ثَمَنًا قَلِيلًا" عَرَضًا يَسِيرًا مِنْ الدُّنْيَا أَيْ لَا تَكْتُمُوهَا خَوْف فَوَات مَا تَأْخُذُونَهُ مِنْ سَفَلَتكُمْ "وَإِيَّايَ فَاتَّقُونِ" خَافُونِ فِي ذَلِكَ دُون غَيْرِي<br><br><mark>{42} وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ</mark><br>"وَلَا تَلْبِسُوا" تَخْلِطُوا "الْحَقّ" الَّذِي أَنْزَلْت عَلَيْكُمْ "بِالْبَاطِلِ" الَّذِي تَفْتَرُونَهُ "وَ" لَا "تَكْتُمُوا الْحَقّ" نَعْت مُحَمَّد صَلَّى اللَّه عَلَيْهِ وَسَلَّمَ "وَأَنْتُمْ تَعْلَمُونَ" أَنَّهُ الْحَقّ<br><br><mark>{43} وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ</mark><br>"وَأَقِيمُوا الصَّلَاة وَآتُوا الزَّكَاة وَارْكَعُوا مَعَ الرَّاكِعِينَ" صَلُّوا مَعَ الْمُصَلِّينَ مُحَمَّد وَأَصْحَابه وَنَزَلَ فِي عُلَمَائِهِمْ وَكَانُوا يَقُولُونَ لِأَقْرِبَائِهِمْ الْمُسْلِمِينَ اُثْبُتُوا عَلَى دِين مُحَمَّد فَإِنَّهُ حَقّ<br><br><mark>{44} أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ أَنْفُسَكُمْ وَأَنْتُمْ تَتْلُونَ الْكِتَابَ أَفَلَا تَعْقِلُونَ</mark><br>"أَتَأْمُرُونَ النَّاس بِالْبِرِّ" بِالْإِيمَانِ . بِمُحَمَّدٍ "وَتَنْسَوْنَ أَنْفُسكُمْ" تَتْرُكُونَهَا فَلَا تَأْمُرُونَهَا بِهِ "وَأَنْتُمْ تَتْلُونَ الْكِتَاب" التَّوْرَاة وَفِيهَا الْوَعِيد عَلَى مُخَالَفَة الْقَوْل الْعَمَل "أَفَلَا تَعْقِلُونَ" سُوء فِعْلكُمْ فَتَرْجِعُونَ فَجُمْلَة النِّسْيَان مَحَلّ الِاسْتِفْهَام الْإِنْكَارِيّ<br><br><mark>{45} وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى الْخَاشِعِينَ</mark><br>"وَاسْتَعِينُوا" اُطْلُبُوا الْمَعُونَة عَلَى أُمُوركُمْ "بِالصَّبْرِ" الْحَبْس لِلنَّفْسِ عَلَى مَا تَكْرَه "وَالصَّلَاة" أَفْرَدَهَا بِالذِّكْرِ تَعْظِيمًا لِشَأْنِهَا وَفِي الْحَدِيث ( كَانَ صَلَّى اللَّه عَلَيْهِ وَسَلَّمَ إذَا حَزَبَهُ أَمْر بَادَرَ إلَى الصَّلَاة وَقِيلَ الْخِطَاب لِلْيَهُودِ لَمَّا عَاقَهُمْ عَنْ الْإِيمَان الشَّرَه وَحُبّ الرِّيَاسَة فَأُمِرُوا بِالصَّبْرِ وَهُوَ الصَّوْم لِأَنَّهُ يَكْسِر الشَّهْوَة وَالصَّلَاة لِأَنَّهَا تُورِث الْخُشُوع وَتَنْفِي الْكِبْر "وَإِنَّهَا" أَيْ الصَّلَاة "لَكَبِيرَة" ثَقِيلَة "إلَّا عَلَى الْخَاشِعِينَ" السَّاكِنِينَ إلَى الطَّاعَة<br><br><mark>{46} الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلَاقُو رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَاجِعُونَ</mark><br>"الَّذِينَ يَظُنُّونَ" يُوقِنُونَ "أَنَّهُمْ مُلَاقُو رَبّهمْ" بِالْبَعْثِ "وَأَنَّهُمْ إلَيْهِ رَاجِعُونَ" فِي الْآخِرَة فَيُجَازِيهِمْ<br><br><mark>{47} يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ</mark><br>"يَا بَنِي إسْرَائِيل اُذْكُرُوا نِعْمَتِي الَّتِي أَنْعَمْت عَلَيْكُمْ" بِالشُّكْرِ عَلَيْهَا بِطَاعَتِي "وَأَنِّي فَضَّلْتُكُمْ" أَيْ آبَاءَكُمْ "عَلَى الْعَالَمِينَ" عَالِمِي زَمَانهمْ<br><br><mark>{48} وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنْصَرُونَ</mark><br>"وَاتَّقُوا" خَافُوا "يَوْمًا" وَهُوَ يَوْم الْقِيَامَة "لَا تَجْزِي نَفْس عَنْ نَفْس شَيْئًا" "لَا تَجْزِي" فِيهِ "نَفْس عَنْ نَفْس شَيْئًا" "وَلَا يُقْبَل" بِالتَّاءِ وَالْيَاء "مِنْهَا شَفَاعَة" أَيْ لَيْسَ لَهَا شَفَاعَة فَتُقْبَل "فَمَا لَنَا مِنْ شَافِعِينَ" "عَدْل" فِدَاء "وَلَا هُمْ يُنْصَرُونَ" يُمْنَعُونَ مِنْ عَذَاب اللَّه<br><br>';}
                     else if(counter == 7){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img7.jpg");
                        //txt
-                    document.getElementById("txt").innerHTML="";}
-                    else if(counter == 8){
+					document.getElementById("txt").innerHTML='<mark>{49} وَإِذْ نَجَّيْنَاكُمْ مِنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ يُذَبِّحُونَ أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُمْ بَلَاءٌ مِنْ رَبِّكُمْ عَظِيمٌ</mark><br>" وَ " اُذْكُرْوَا "إذْ نَجَّيْنَاكُمْ" أَيْ آبَاءَكُمْ وَالْخِطَاب بِهِ وَبِمَا بَعْده لِلْمَوْجُودِينَ فِي زَمَن نَبِيّنَا بِمَا أَنْعَمَ اللَّه عَلَى آبَائِهِمْ تَذْكِيرًا لَهُمْ بِنِعْمَةِ اللَّه تَعَالَى لِيُؤْمِنُوا "مِنْ آل فِرْعَوْن يَسُومُونَكُمْ" يُذِيقُونَكُمْ "سُوء الْعَذَاب" أَشَدّه وَالْجُمْلَة حَال مِنْ ضَمِير نَجَّيْنَاكُمْ "يُذَبِّحُونَ" بَيَان لِمَا قَبْله "أَبْنَاءَكُمْ" الْمَوْلُودِينَ "وَيَسْتَحْيُونَ نِسَاءَكُمْ" يَسْتَبْقُونَ "نِسَاءَكُمْ" لِقَوْلِ بَعْض الْكَهَنَة لَهُ إنَّ مَوْلُودًا يُولَد فِي بَنِي إسْرَائِيل يَكُون سَبَبًا لِذَهَابِ مُلْكك "وَفِي ذَلِكُمْ" الْعَذَاب أَوْ الْإِنْجَاء "بَلَاء" ابْتِلَاء أَوْ إنْعَام "مِنْ رَّبّكُمْ عَظَيِمٌ "<br><br><mark>{50} وَإِذْ فَرَقْنَا بِكُمُ الْبَحْرَ فَأَنْجَيْنَاكُمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ تَنْظُرُونَ</mark><br>" وَ " اُذْكُرُوا "إذْ فَرَقْنَا" فَلَقْنَا "بِكُمْ" بِسَبَبِكُمْ "الْبَحْر" حَتَّى دَخَلْتُمُوهُ هَارِبِينَ مِنْ عَدُوّكُمْ "فَأَنْجَيْنَاكُمْ" مِنْ الْغَرَق "وَأَغْرَقْنَا آل فِرْعَوْن" قَوْمه مَعَهُ "وَأَنْتُمْ تَنْظُرُونَ" إلَى انْطِبَاق الْبَحْر عَلَيْهِمْ<br><br><mark>{51} وَإِذْ وَاعَدْنَا مُوسَى أَرْبَعِينَ لَيْلَةً ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ</mark><br>"وَإِذْ وَاعَدْنَا" بِأَلِفٍ وَدُونهَا "مُوسَى أَرْبَعِينَ لَيْلَة" نُعْطِيه عِنْد انْقِضَائِهَا التَّوْرَاة لِتَعْمَلُوا بِهَا "ثُمَّ اتَّخَذْتُمْ الْعِجْل" الَّذِي صَاغَهُ لَكُمْ السَّامِرِيّ إلَهًا "مِنْ بَعْده" أَيْ بَعْد ذَهَابه إلَى مِيعَادنَا "وَأَنْتُمْ ظَالِمُونَ" بِاِتِّخَاذِهِ ; لِوَضْعِكُمْ الْعِبَادَة فِي غَيْر مَحَلّهَا<br><br><mark>{52} ثُمَّ عَفَوْنَا عَنْكُمْ مِنْ بَعْدِ ذَلِكَ لَعَلَّكُمْ تَشْكُرُونَ</mark><br>"ثُمَّ عَفَوْنَا عَنْكُمْ" مَحَوْنَا ذُنُوبكُمْ "مِنْ بَعْد ذَلِكَ" الِاتِّخَاذ "لَعَلَّكُمْ تَشْكُرُونَ" نِعْمَتنَا عَلَيْكُمْ<br><br><mark>"وَإِذْ آتَيْنَا مُوسَى الْكِتَاب" التَّوْرَاة "وَالْفُرْقَان" عَطْف تَفْسِير أَيْ الْفَارِق بَيْن الْحَقّ وَالْبَاطِل وَالْحَلَال وَالْحَرَام "لَعَلَّكُمْ تَهْتَدُونَ" بِهِ مِنْ الضَّلَال</mark><br>"وَإِذْ آتَيْنَا مُوسَى الْكِتَاب" التَّوْرَاة "وَالْفُرْقَان" عَطْف تَفْسِير أَيْ الْفَارِق بَيْن الْحَقّ وَالْبَاطِل وَالْحَلَال وَالْحَرَام "لَعَلَّكُمْ تَهْتَدُونَ" بِهِ مِنْ الضَّلَال<br><br><mark>{54} وَإِذْ قَالَ مُوسَى لِقَوْمِهِ يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُوا إِلَى بَارِئِكُمْ فَاقْتُلُوا أَنْفُسَكُمْ ذَلِكُمْ خَيْرٌ لَكُمْ عِنْدَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ</mark><br>"وَإِذْ قَالَ مُوسَى لِقَوْمِهِ" الَّذِينَ عَبَدُوا الْعِجْل "يَا قَوْم إنَّكُمْ ظَلَمْتُمْ أَنْفُسكُمْ بِاِتِّخَاذِكُمْ الْعِجْل" يَا قَوْم إنَّكُمْ ظَلَمْتُمْ أَنْفُسكُمْ بِاِتِّخَاذِكُمْ الْعِجْل إلَهًا . "فَتُوبُوا إلَى بَارِئُكُمْ" خَالِقكُمْ مِنْ عِبَادَته "فَاقْتُلُوا أَنْفُسكُمْ" أَيْ لِيَقْتُل الْبَرِيء مِنْكُمْ الْمُجْرِم "ذَلِكُمْ" الْقَتْل "خَيْر لَكُمْ عِنْد بَارِئِكُمْ" فَوَفَّقَكُمْ لِفِعْلِ ذَلِكَ وَأَرْسَلَ عَلَيْكُمْ سَحَابَة سَوْدَاء لِئَلَّا يُبْصِر بَعْضكُمْ بَعْضًا فَيَرْحَمهُ حَتَّى قَتَلَ مِنْكُمْ نَحْو سَبْعِينَ أَلْفًا "فَتَابَ عَلَيْكُمْ" قَبِلَ تَوْبَتكُمْ "إِنَّهُ هُوَ التَّوَابُ الرَّحِيمُ"<br><br><mark>{55} وَإِذْ قُلْتُمْ يَا مُوسَى لَنْ نُؤْمِنَ لَكَ حَتَّى نَرَى اللَّهَ جَهْرَةً فَأَخَذَتْكُمُ الصَّاعِقَةُ وَأَنْتُمْ تَنْظُرُونَ</mark><br>"وَإِذْ قُلْتُمْ" وَقَدْ خَرَجْتُمْ مَعَ مُوسَى لِتَعْتَذِرُوا إلَى اللَّه مِنْ عِبَادَة الْعِجْل وَسَمِعْتُمْ كَلَامه "يَا مُوسَى لَنْ نُؤْمِن لَك حَتَّى نَرَى اللَّه جَهْرَة" عِيَانًا "فَأَخَذَتْكُمْ الصَّاعِقَة" الصَّيْحَة فَمُتُّمْ "وَأَنْتُمْ تَنْظُرُونَ" مَا حَلَّ بِكُمْ<br><br>';}
+					   else if(counter == 8){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img8.jpg");
                        //txt
-                    document.getElementById("txt").innerHTML="";}
+                    document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
                     else if(counter == 9){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img9.jpg");
                        //txt
-					document.getElementById("txt").innerHTML="";}
+					document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
                     else if(counter == 10){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img10.jpg");
                        //txt
-                    document.getElementById("txt").innerHTML="";}
+                    document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
                     else if(counter == 11){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img11.jpg");
                        //txt
-					document.getElementById("txt").innerHTML="";}
+					document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
                     else if(counter == 12){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img12.jpg");
                        //txt
-					document.getElementById("txt").innerHTML="";}
+					document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
                     else if(counter == 13){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img13.jpg");
                        //txt
-					document.getElementById("txt").innerHTML="";}
+					document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
                     else if(counter == 14){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img14.jpg");
                        //txt
-					document.getElementById("txt").innerHTML="";}
+					document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
                     else if(counter == 15){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img15.jpg");
                        //txt
-					document.getElementById("txt").innerHTML="";}
+					document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
                     else if(counter == 16){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img16.jpg");
                        //txt
-					document.getElementById("txt").innerHTML="";}
+					document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
                      else if(counter == 17){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img17.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 18){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img18.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 19){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img19.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 20){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img20.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 21){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img21.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 22){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img22.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 23){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img23.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 24){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img24.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 25){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img25.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 26){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img26.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 27){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img27.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 28){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img28.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 29){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img29.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 30){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img30.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}				    
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}				    
 				    else if(counter == 31){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img31.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 32){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img32.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 33){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img33.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 34){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img34.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 35){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img35.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 36){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img36.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 37){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img37.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 38){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img38.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 39){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img39.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 40){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img40.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 41){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img41.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 42){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img42.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 43){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img43.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 44){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img44.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 45){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img45.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 				    else if(counter == 46){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img46.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
                     else if(counter == 47){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img47.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br>';}
 					else if(counter == 48){
                         //img
                     var img=document.getElementById("img");
                     img.setAttribute("src","../pics/002/img48.jpg");
                        //txt
-				   document.getElementById("txt").innerHTML="";}
+				   document.getElementById("txt").innerHTML='<mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br><mark></mark><br><br><br>';}
 					
 					else {counter = 48;}
 					
@@ -317,6 +317,18 @@ var counter =1;
                     img.setAttribute("src","../pics/002/img4.jpg");
                        //txt
 					document.getElementById("txt").innerHTML='<mark>{25} وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقًا قَالُوا هَذَا الَّذِي رُزِقْنَا مِنْ قَبْلُ وَأُتُوا بِهِ مُتَشَابِهًا وَلَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ وَهُمْ فِيهَا خَالِدُونَ</mark><br>"وَبَشِّرْ" أَخْبِرْ "الَّذِينَ آمَنُوا" صَدَّقُوا بِاَللَّهِ "وَعَمِلُوا الصَّالِحَات" مِنْ الْفُرُوض وَالنَّوَافِل "أَنَّ" أَيْ بِأَنَّ "لَهُمْ جَنَّات" حَدَائِق ذَات أَشْجَار وَمَسَاكِن "تَجْرِي مِنْ تَحْتهَا" أَيْ تَحْت أَشْجَارهَا وَقُصُورهَا "الْأَنْهَار" أَيْ الْمِيَاه فِيهَا وَالنَّهْر الْمَوْضِع الَّذِي يَجْرِي فِيهِ الْمَاء لِأَنَّ الْمَاء يَنْهَرهُ أَيْ يَحْفِرهُ وَإِسْنَاد الْجَرْي إلَيْهِ مَجَاز "كُلَّمَا رُزِقُوا مِنْهَا" أُطْعِمُوا مِنْ تِلْكَ الْجَنَّات . "مِنْ ثَمَرَة رِزْقًا قَالُوا هَذَا الَّذِي" أَيْ مِثْل مَا "رُزِقْنَا مِنْ قَبْل" أَيْ قَبْله فِي الْجَنَّة لِتَشَابُهِ ثِمَارهَا بِقَرِينَةِ "وَأُتُوا بِهِ" أَيْ جِيئُوا بِالرِّزْقِ "مُتَشَابِهًا" يُشْبِه بَعْضه بَعْضًا لَوْنًا وَيَخْتَلِف طَعْمًا "وَلَهُمْ فِيهَا أَزْوَاج" مِنْ الْحُور وَغَيْرهَا "مُطَهَّرَة" مِنْ الْحَيْض وَكُلّ قَذَر "وَهُمْ فِيهَا خَالِدُونَ" مَاكِثُونَ أَبَدًا لَا يَفْنَوْنَ وَلَا يَخْرُجُونَ . وَنَزَلَ رَدًّا لِقَوْلِ الْيَهُود لَمَّا ضَرَبَ اللَّه الْمَثَل بِالذُّبَابِ فِي قَوْله : ( وَإِنْ يَسْلُبهُمْ الذُّبَاب شَيْئًا وَالْعَنْكَبُوت فِي قَوْله : ( كَمَثَلِ الْعَنْكَبُوت مَا أَرَادَ اللَّه بِذِكْرِ هَذِهِ الْأَشْيَاء ؟ الْخَسِيسَة فَأَنْزَلَ اللَّه<br><br><mark>{26} إِنَّ اللَّهَ لَا يَسْتَحْيِي أَنْ يَضْرِبَ مَثَلًا مَا بَعُوضَةً فَمَا فَوْقَهَا فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِنْ رَبِّهِمْ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ مَاذَا أَرَادَ اللَّهُ بِهَذَا مَثَلًا يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ</mark><br>"إنَّ اللَّه لَا يَسْتَحْيِ أَنْ يَضْرِب" يَجْعَل "مَثَلًا" مَفْعُول أَوَّل "مَا" نَكِرَة مَوْصُوفَة بِمَا بَعْدهَا مَفْعُول ثَانٍ أَيّ مَثَل كَانَ أَوْ زَائِدَة لِتَأْكِيدِ الْخِسَّة فَمَا بَعْدهَا الْمَفْعُول الثَّانِي "بَعُوضَة" مُفْرَد الْبَعُوض وَهُوَ صِغَار الْبَقّ "فَمَا فَوْقهَا" أَيْ أَكْبَر مِنْهَا أَيْ لَا يَتْرُك بَيَانه لِمَا فِيهِ مِنْ الْحُكْم "فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ" أَيْ الْمَثَل "الْحَقّ" الثَّابِت الْوَاقِع مَوْقِعه "مِنْ رَبّهمْ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ مَاذَا أَرَادَ اللَّه بِهَذَا مَثَلًا" تَمْيِيز أَيْ بِهَذَا الْمَثَل وَمَا اسْتِفْهَام إنْكَار مُبْتَدَأ وَذَا بِمَعْنَى الَّذِي بِصِلَتِهِ خَبَره أَيْ : أَيّ فَائِدَة فِيهِ قَالَ تَعَالَى فِي جَوَابهمْ "يُضِلّ بِهِ" أَيْ بِهَذَا الْمَثَل "كَثِيرًا" عَنْ الْحَقّ لِكُفْرِهِمْ بِهِ "وَيَهْدِي بِهِ كَثِيرًا" مِنْ الْمُؤْمِنِينَ لِتَصْدِيقِهِمْ بِهِ "وَمَا يُضِلّ بِهِ إلَّا الْفَاسِقِينَ" الْخَارِجِينَ عَنْ طَاعَته<br><br><mark>{27} الَّذِينَ يَنْقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي الْأَرْضِ أُولَئِكَ هُمُ الْخَاسِرُونَ</mark><br>"الَّذِينَ" نَعْتَ "يَنْقُضُونَ عَهْد اللَّه" مَا عَهِدَهُ إلَيْهِمْ فِي الْكُتُب مِنْ الْإِيمَان بِمُحَمَّدٍ صَلَّى اللَّه عَلَيْهِ وَسَلَّمَ "مِنْ بَعْد مِيثَاقه" تَوْكِيده عَلَيْهِمْ "وَيَقْطَعُونَ مَا أَمَرَ اللَّه بِهِ أَنْ يُوصَل" مِنْ الْإِيمَان بِالنَّبِيِّ وَالرَّحِم وَغَيْر ذَلِكَ وَأَنْ بَدَل مِنْ ضَمِير بِهِ "وَيُفْسِدُونَ فِي الْأَرْض" بِالْمَعَاصِي وَالتَّعْوِيق عَنْ الْإِيمَان "أُولَئِكَ" الْمَوْصُوفُونَ بِمَا ذُكِرَ "هُمْ الْخَاسِرُونَ" لِمَصِيرِهِمْ إلَى النَّار الْمُؤَبَّدَة عَلَيْهِمْ<br><br><mark>{28} كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنْتُمْ أَمْوَاتًا فَأَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ</mark><br>"كَيْفَ تَكْفُرُونَ" يَا أَهْل مَكَّة "بِاَللَّهِ" وَقَدْ "كُنْتُمْ أَمْوَاتًا" نُطَفًا فِي الْأَصْلَاب "فَأَحْيَاكُمْ" فِي الْأَرْحَام وَالدُّنْيَا بِنَفْخِ الرُّوح فِيكُمْ وَالِاسْتِفْهَام لِلتَّعْجِيبِ مِنْ كُفْرهمْ مَعَ قِيَام الْبُرْهَان أَوْ لِلتَّوْبِيخِ "ثُمَّ يُمِيتكُمْ" عِنْد انْتِهَاء آجَالكُمْ "ثُمَّ يُحْيِيكُمْ" بِالْبَعْثِ "ثُمَّ إلَيْهِ تُرْجَعُونَ" تُرَدُّونَ بَعْد الْبَعْث فَيُجَازِيكُمْ بِأَعْمَالِكُمْ وَقَالَ دَلِيلًا عَلَى الْبَعْث لِمَا أَنْكَرُوهُ<br><br><mark>{29} هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الْأَرْضِ جَمِيعًا ثُمَّ اسْتَوَى إِلَى السَّمَاءِ فَسَوَّاهُنَّ سَبْعَ سَمَاوَاتٍ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ</mark><br>"هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الْأَرْض" أَيْ الْأَرْض وَمَا فِيهَا "جَمِيعًا" لِتَنْتَفِعُوا بِهِ وَتَعْتَبِرُوا "ثُمَّ اسْتَوَى" بَعْد خَلْق الْأَرْض أَيْ قَصَدَ "إلَى السَّمَاء فَسَوَّاهُنَّ" الضَّمِير يَرْجِع إلَى السَّمَاء لِأَنَّهَا فِي مَعْنَى الْجُمْلَة الْآيِلَة إلَيْهِ : أَيْ صَيَّرَهَا كَمَا فِي آيَة أُخْرَى ( فَقَضَاهُنَّ "سَبْع سَمَاوَات وَهُوَ بِكُلِّ شَيْء عَلِيم" مُجْمَلًا وَمُفَصَّلًا أَفَلَا تَعْتَبِرُونَ أَنَّ الْقَادِر عَلَى خَلْق ذَلِك ابْتِدَاء وَهُوَ أَعْظَم مِنْكُمْ قَادِر عَلَى إعَادَتكُمْ<br><br>';}
-                   
+                   else if(counter == 5){
+                        //img
+                    var img=document.getElementById("img");
+                    img.setAttribute("src","../pics/002/img5.jpg");
+                       //txt
+                    document.getElementById("txt").innerHTML='<mark>{30} وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً قَالُوا أَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ</mark><br>وَاذْكُرْ يَا مُحَمَّد إذْ " قَالَ رَبّك لِلْمَلَائِكَةِ إنِّي جَاعِل فِي الْأَرْض خَلِيفَة" يَخْلُفنِي فِي تَنْفِيذ أَحْكَامِي فِيهَا وَهُوَ آدَم "قَالُوا أَتَجْعَلُ فِيهَا مَنْ يُفْسِد فِيهَا" بِالْمَعَاصِي "وَيَسْفِك الدِّمَاء" يُرِيقهَا بِالْقَتْلِ كَمَا فَعَلَ بَنُو الْجَانّ وَكَانُوا فِيهَا فَلَمَّا أَفْسَدُوا أَرْسَلَ اللَّه عَلَيْهِمْ الْمَلَائِكَة فَطَرَدُوهُمْ إلَى الْجَزَائِر وَالْجِبَال "وَنَحْنُ نُسَبِّح" مُتَلَبِّسِينَ "بِحَمْدِك" أَيْ نَقُول سُبْحَان اللَّه "وَنُقَدِّس لَك" نُنَزِّهك عَمَّا لَا يَلِيق بِك فَاللَّام زَائِدَة وَالْجُمْلَة حَال أَيْ فَنَحْنُ أَحَقّ بِالِاسْتِخْلَافِ قَالَ تَعَالَى "إنِّي أَعْلَم مَا لَا تَعْلَمُونَ" مِنْ الْمَصْلَحَة فِي اسْتِخْلَاف آدَم وَأَنَّ ذُرِّيَّته فِيهِمْ الْمُطِيع وَالْعَاصِي فَيَظْهَر الْعَدْل بَيْنهمْ فَقَالُوا لَنْ يَخْلُق رَبّنَا خَلْقًا أَكْرَم عَلَيْهِ مِنَّا وَلَا أَعْلَم لِسَبْقِنَا لَهُ وَرُؤْيَتنَا مَا لَمْ يَرَهُ فَخَلَقَ اللَّه تَعَالَى آدَم مِنْ أَدِيم الْأَرْض أَيْ وَجْههَا بِأَنْ قَبَضَ مِنْهَا قَبْضَة مِنْ جَمِيع أَلْوَانهَا وَعُجِنَتْ بِالْمِيَاهِ الْمُخْتَلِفَة وَسَوَّاهُ وَنَفَخَ فِيهِ الرُّوح فَصَارَ حَيَوَانًا حَسَّاسًا بَعْد أَنْ كَانَ جَمَادًا<br><br><mark>{31} وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَاءِ هَؤُلَاءِ إِنْ كُنْتُمْ صَادِقِينَ</mark><br>"وَعَلَّمَ آدَمَ الْأَسْمَاءَ" أَيْ أَسَمَاء الْمُسَمَّيَات "كُلّهَا" بِأَنْ أَلْقَى فِي قَلْبه عِلْمهَا "ثُمَّ عَرَضَهُمْ" أَيْ الْمُسَمَّيَات وَفِيهِ تَغْلِيب الْعُقَلَاء "عَلَى الْمَلَائِكَة فَقَالَ " لَهُمْ تَبْكِيتًا "أَنْبِئُونِي" أَخْبِرُونِي "بِأَسْمَاءِ هَؤُلَاءِ" الْمُسَمَّيَات "إنْ كُنْتُمْ صَادِقِينَ" فِي أَنِّي لَا أَخْلُق أَعْلَم مِنْكُمْ أَوْ أَنَّكُمْ أَحَقّ بِالْخِلَافَةِ وَجَوَاب الشَّرْط دَلَّ عَلَيْهِ مَا قَبْله<br><br><mark>{32} قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ</mark><br>"قَالُوا سُبْحَانك" تَنْزِيهًا لَك عَنْ الِاعْتِرَاض عَلَيْك "لَا عِلْم لَنَا إلَّا مَا عَلَّمْتنَا" إيَّاهُ "إنَّك أَنْت" تَأْكِيد لِلْكَافِ "الْعَلِيم الْحَكِيم" الَّذِي لَا يَخْرُج شَيْء عَنْ عِلْمه وَحِكْمَته<br><br><mark>{33} قَالَ يَا آدَمُ أَنْبِئْهُمْ بِأَسْمَائِهِمْ فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ</mark><br>" قَالَ " تَعَالَى "يَا آدَم أَنْبِئْهُمْ" أَيْ الْمَلَائِكَة "بِأَسْمَائِهِمْ" الْمُسَمَّيَات فَسَمَّى كُلّ شَيْء بِاسْمِهِ وَذَكَرَ حِكْمَته الَّتِي خُلِقَ لَهَا "فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ قَالَ " تَعَالَى لَهُمْ مُوَبِّخًا "أَلَمْ أَقُلْ لَكُمْ إنِّي أَعْلَم غَيْب السَّمَاوَات وَالْأَرْض" مَا غَابَ فِيهِمَا "وَأَعْلَم مَا تُبْدُونَ" مَا تُظْهِرُونَ مِنْ قَوْلكُمْ أَتَجْعَلُ فِيهَا إلَخْ "وَمَا كُنْتُمْ تَكْتُمُونَ" تُسِرُّونَ مِنْ قَوْلكُمْ لَنْ يَخْلُق أَكْرَم عَلَيْهِ مِنَّا وَلَا أَعْلَم<br><br><mark>{34} وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ</mark><br>" وَ " اُذْكُرْ " إذْ قُلْنَا لِلْمَلَائِكَةِ اُسْجُدُوا لِآدَم " سُجُود تَحِيَّة بِالِانْحِنَاءِ "فَسَجَدُوا إلَّا إبْلِيس" هُوَ أَبُو الْجِنّ كَانَ بَيْن الْمَلَائِكَة "أَبَى" امْتَنَعَ مِنْ السُّجُود "وَاسْتَكْبَرَ" تَكَبَّرَ عَنْهُ وَقَالَ : أَنَا خَيْر مِنْهُ "وَكَانَ مِنْ الْكَافِرِينَ" فِي عِلْم اللَّه<br><br><mark>{35} وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ</mark><br>"وَقُلْنَا يَا آدَم اُسْكُنْ أَنْت" تَأْكِيد لِلضَّمِيرِ الْمُسْتَتِر لِيَعْطِف عَلَيْهِ "وَزَوْجك" حَوَّاء بِالْمَدِّ وَكَانَ خَلَقَهَا مِنْ ضِلْعه الْأَيْسَر "الْجَنَّة وَكُلَا مِنْهَا" أَكْلًا "رَغَدًا" وَاسِعًا لَا حَجْر فِيهِ "حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَة" بِالْأَكْلِ مِنْهَا وَهِيَ الْحِنْطَة أَوْ الْكَرْم أَوْ غَيْرهمَا "فَتَكُونَا" فَتَصِيرَا "مِنْ الظَّالِمِينَ" الْعَاصِينَ<br><br><mark>{36} فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ</mark><br>"فَأَزَلَّهُمَا الشَّيْطَان" إبْلِيس أَذْهَبهُمَا وَفِي قِرَاءَة فَأَزَالهُمَا نَحَّاهُمَا "عَنْهَا" أَيْ الْجَنَّة بِأَنْ قَالَ لَهُمَا : هَلْ أَدُلّكُمَا عَلَى شَجَرَة الْخُلْد وَقَاسَمَهُمَا بِاَللَّهِ إنَّهُ لَهُمَا لَمِنْ النَّاصِحِينَ فَأَكَلَا مِنْهَا "فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ" مِنْ النَّعِيم "وَقُلْنَا اهْبِطُوا" إلَى الْأَرْض أَيْ أَنْتُمَا بِمَا اشْتَمَلْتُمَا عَلَيْهِ مِنْ ذُرِّيَّتكُمَا "بَعْضكُمْ" بَعْض الذُّرِّيَّة "لِبَعْضٍ عَدُوّ" مِنْ ظُلْم بَعْضكُمْ بَعْضًا "وَلَكُمْ فِي الْأَرْض مُسْتَقَرّ" مَوْضِع قَرَار "وَمَتَاع" مَا تَتَمَتَّعُونَ بِهِ مِنْ نَبَاتهَا "إلَى حِين" وَقْت انْقِضَاء آجَالكُمْ<br><br><mark>{37} فَتَلَقَّى آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ</mark><br>"فَتَلَقَّى آدَم مِنْ رَبّه كَلِمَات" أَلْهَمَهُ إيَّاهَا وَفِي قِرَاءَة بِنَصْبِ آدَم وَرَفْع كَلِمَات أَيْ جَاءَهُ وَهِيَ رَبّنَا ظَلَمْنَا أَنْفُسنَا الْآيَة فَدَعَا بِهَا "فَتَابَ عَلَيْهِ" قَبِلَ تَوْبَته "إنَّهُ هُوَ التَّوَّاب" عَلَى عِبَاده "الرَّحِيم" بِهِمْ<br><br>';}
+                    else if(counter == 6){
+                        //img
+                    var img=document.getElementById("img");
+                    img.setAttribute("src","../pics/002/img6.jpg");
+                       //txt
+					document.getElementById("txt").innerHTML='<mark>{38} قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي هُدًى فَمَنْ تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ</mark><br>"قُلْنَا اهْبِطُوا مِنْهَا" مِنْ الْجَنَّة "جَمِيعًا" كَرَّرَهُ لِيَعْطِف عَلَيْهِ "فَإِمَّا" فِيهِ إدْغَام نُون إنْ الشَّرْطِيَّة فِي مَا الزَّائِدَة "يَأْتِيَنكُمْ مِنِّي هُدًى" كِتَاب وَرَسُول "فَمَنْ تَبِعَ هُدَايَ" فَآمَنَ بِي وَعَمِلَ بِطَاعَتِي "فَلَا خَوْف عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ" فِي الْآخِرَة بِأَنْ يَدْخُلُوا الْجَنَّة<br><br><mark>{39} وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ</mark><br>"وَاَلَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا" كُتُبنَا "أُولَئِكَ أَصْحَاب النَّار هُمْ فِيهَا خَالِدُونَ" مَاكِثُونَ أَبَدًا لَا يَفْنَوْنَ وَلَا يَخْرُجُونَ<br><br><mark>{40} يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ وَإِيَّايَ فَارْهَبُونِ</mark><br>"يَا بَنِي إسْرَائِيل" أَوْلَاد يَعْقُوب "اُذْكُرُوا نِعْمَتِي الَّتِي أَنْعَمْت عَلَيْكُمْ" أَيْ عَلَى آبَائِكُمْ مِنْ الْإِنْجَاء مِنْ فِرْعَوْن وَفَلْق الْبَحْر وَتَظْلِيل الْغَمَام وَغَيْر ذَلِكَ بِأَنْ تَشْكُرُوهَا بِطَاعَتِي "وَأَوْفُوا بِعَهْدِي" الَّذِي عَهِدْته إلَيْكُمْ مِنْ الْإِيمَان بِمُحَمَّدٍ "أُوفِ بِعَهْدِكُمْ" الَّذِي عَهِدْت إلَيْكُمْ مِنْ الثَّوَاب عَلَيْهِ بِدُخُولِ الْجَنَّة "وَإِيَّايَ فَارْهَبُونِي" خَافُونِ فِي تَرْك الْوَفَاء بِهِ دُون غَيْرِي<br><br><mark>{41} وَآمِنُوا بِمَا أَنْزَلْتُ مُصَدِّقًا لِمَا مَعَكُمْ وَلَا تَكُونُوا أَوَّلَ كَافِرٍ بِهِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَإِيَّايَ فَاتَّقُونِ</mark><br>"وَآمِنُوا بِمَا أَنْزَلْت" مِنْ الْقُرْآن "مُصَدِّقًا لِمَا مَعَكُمْ" مِنْ التَّوْرَاة بِمُوَافَقَتِهِ لَهُ فِي التَّوْحِيد وَالنُّبُوَّة "وَلَا تَكُونُوا أَوَّل كَافِر بِهِ" مِنْ أَهْل الْكِتَاب لِأَنَّ خَلْفكُمْ تَبَع لَكُمْ فَإِثْمهمْ عَلَيْكُمْ "وَلَا تَشْتَرُوا" تَسْتَبْدِلُوا "بِآيَاتِي" الَّتِي فِي كِتَابكُمْ مِنْ نَعْت مُحَمَّد صَلَّى اللَّه عَلَيْهِ وَسَلَّمَ "ثَمَنًا قَلِيلًا" عَرَضًا يَسِيرًا مِنْ الدُّنْيَا أَيْ لَا تَكْتُمُوهَا خَوْف فَوَات مَا تَأْخُذُونَهُ مِنْ سَفَلَتكُمْ "وَإِيَّايَ فَاتَّقُونِ" خَافُونِ فِي ذَلِكَ دُون غَيْرِي<br><br><mark>{42} وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ</mark><br>"وَلَا تَلْبِسُوا" تَخْلِطُوا "الْحَقّ" الَّذِي أَنْزَلْت عَلَيْكُمْ "بِالْبَاطِلِ" الَّذِي تَفْتَرُونَهُ "وَ" لَا "تَكْتُمُوا الْحَقّ" نَعْت مُحَمَّد صَلَّى اللَّه عَلَيْهِ وَسَلَّمَ "وَأَنْتُمْ تَعْلَمُونَ" أَنَّهُ الْحَقّ<br><br><mark>{43} وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ</mark><br>"وَأَقِيمُوا الصَّلَاة وَآتُوا الزَّكَاة وَارْكَعُوا مَعَ الرَّاكِعِينَ" صَلُّوا مَعَ الْمُصَلِّينَ مُحَمَّد وَأَصْحَابه وَنَزَلَ فِي عُلَمَائِهِمْ وَكَانُوا يَقُولُونَ لِأَقْرِبَائِهِمْ الْمُسْلِمِينَ اُثْبُتُوا عَلَى دِين مُحَمَّد فَإِنَّهُ حَقّ<br><br><mark>{44} أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ أَنْفُسَكُمْ وَأَنْتُمْ تَتْلُونَ الْكِتَابَ أَفَلَا تَعْقِلُونَ</mark><br>"أَتَأْمُرُونَ النَّاس بِالْبِرِّ" بِالْإِيمَانِ . بِمُحَمَّدٍ "وَتَنْسَوْنَ أَنْفُسكُمْ" تَتْرُكُونَهَا فَلَا تَأْمُرُونَهَا بِهِ "وَأَنْتُمْ تَتْلُونَ الْكِتَاب" التَّوْرَاة وَفِيهَا الْوَعِيد عَلَى مُخَالَفَة الْقَوْل الْعَمَل "أَفَلَا تَعْقِلُونَ" سُوء فِعْلكُمْ فَتَرْجِعُونَ فَجُمْلَة النِّسْيَان مَحَلّ الِاسْتِفْهَام الْإِنْكَارِيّ<br><br><mark>{45} وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى الْخَاشِعِينَ</mark><br>"وَاسْتَعِينُوا" اُطْلُبُوا الْمَعُونَة عَلَى أُمُوركُمْ "بِالصَّبْرِ" الْحَبْس لِلنَّفْسِ عَلَى مَا تَكْرَه "وَالصَّلَاة" أَفْرَدَهَا بِالذِّكْرِ تَعْظِيمًا لِشَأْنِهَا وَفِي الْحَدِيث ( كَانَ صَلَّى اللَّه عَلَيْهِ وَسَلَّمَ إذَا حَزَبَهُ أَمْر بَادَرَ إلَى الصَّلَاة وَقِيلَ الْخِطَاب لِلْيَهُودِ لَمَّا عَاقَهُمْ عَنْ الْإِيمَان الشَّرَه وَحُبّ الرِّيَاسَة فَأُمِرُوا بِالصَّبْرِ وَهُوَ الصَّوْم لِأَنَّهُ يَكْسِر الشَّهْوَة وَالصَّلَاة لِأَنَّهَا تُورِث الْخُشُوع وَتَنْفِي الْكِبْر "وَإِنَّهَا" أَيْ الصَّلَاة "لَكَبِيرَة" ثَقِيلَة "إلَّا عَلَى الْخَاشِعِينَ" السَّاكِنِينَ إلَى الطَّاعَة<br><br><mark>{46} الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلَاقُو رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَاجِعُونَ</mark><br>"الَّذِينَ يَظُنُّونَ" يُوقِنُونَ "أَنَّهُمْ مُلَاقُو رَبّهمْ" بِالْبَعْثِ "وَأَنَّهُمْ إلَيْهِ رَاجِعُونَ" فِي الْآخِرَة فَيُجَازِيهِمْ<br><br><mark>{47} يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ</mark><br>"يَا بَنِي إسْرَائِيل اُذْكُرُوا نِعْمَتِي الَّتِي أَنْعَمْت عَلَيْكُمْ" بِالشُّكْرِ عَلَيْهَا بِطَاعَتِي "وَأَنِّي فَضَّلْتُكُمْ" أَيْ آبَاءَكُمْ "عَلَى الْعَالَمِينَ" عَالِمِي زَمَانهمْ<br><br><mark>{48} وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنْصَرُونَ</mark><br>"وَاتَّقُوا" خَافُوا "يَوْمًا" وَهُوَ يَوْم الْقِيَامَة "لَا تَجْزِي نَفْس عَنْ نَفْس شَيْئًا" "لَا تَجْزِي" فِيهِ "نَفْس عَنْ نَفْس شَيْئًا" "وَلَا يُقْبَل" بِالتَّاءِ وَالْيَاء "مِنْهَا شَفَاعَة" أَيْ لَيْسَ لَهَا شَفَاعَة فَتُقْبَل "فَمَا لَنَا مِنْ شَافِعِينَ" "عَدْل" فِدَاء "وَلَا هُمْ يُنْصَرُونَ" يُمْنَعُونَ مِنْ عَذَاب اللَّه<br><br>';}
+                    
                     else {counter = 1;}
             } 
