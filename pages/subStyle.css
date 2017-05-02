@@ -1,17 +1,19 @@
-﻿.moshaf { float: left; }
+.moshaf { float: left; }
 
 .shikh { 
-    float: right;
+    float: none;
+    width: 500px ;
 }
+
 
 .tab-pane{
     font-size: 20px;
-    margin-top:100px;
+    margin-top:80px;
     margin-left: 0px;
     margin-right: 10px;
-  height:780px;
+  height:775px;
   overflow-y:scroll;
-  width:95%;
+  width:99%;
 }
 
 
@@ -29,7 +31,7 @@
     footer{
     font-size: 18px;
     background: dodgerblue;
-    margin-top: 500px;
+    margin-top: 300px;
     padding: 30px 0;
     padding-left: 30px;
 }
