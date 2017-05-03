@@ -154,5 +154,5 @@ var counter =1;
 					 
                     
 
-				else {counter = 12;}
+				else {counter = 1;}
             } 
