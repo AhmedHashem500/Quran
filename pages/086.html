@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+    <head>
+        <title> الطارق </title>
+        <meta charset="utf-8">
+        <link href="subStyle.css" rel="stylesheet"/>
+        <link href="../../Content/bootstrap-theme.min.css" rel="stylesheet"/>
+        <link href="../../Content/bootstrap.min.css" rel="stylesheet"/>
+        <script src="../../Scripts/bootstrap.min.js"></script>
+        <script src="../../Scripts/jquery-3.1.1.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script>
+               
+                /*function s1(){
+                      var audio=document.getElementById("audio");
+                      audio.setAttribute("src","../sound/050.mp3");
+                   }   */
+                function s2(){
+
+                    var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/086/2.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+                   }   
+                function s3(){
+                    var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/086/3.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+                      }
+
+                function s4(){
+                      var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/086/4.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+                      
+                   }   
+               
+                function s5(){
+                      var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/086/5.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+
+                   }
+                function s6(){
+                      var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/086/6.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+
+                   }
+                function s7(){
+                      var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/086/7.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+
+                   } 
+                function s8(){
+                      var parent = document.getElementById("con");
+                    var audio_old = document.getElementById("audio");
+                    //var source_old = document.getElementById("source");
+                    var audio_new = document.createElement("audio");
+                    audio_new.setAttribute("controls","controls");
+                    audio_new.setAttribute("style","width: 500px");
+                    audio_new.setAttribute("id","audio");
+                    var source_new = document.createElement("source");
+                    source_new.setAttribute("src","../sound/086/8.mp3");
+                    source_new.setAttribute("type","audio/mpeg");
+                    source_new.setAttribute("id","source");
+                    audio_new.appendChild(source_new);
+                    parent.replaceChild(audio_new,audio_old);
+
+                   }                           
+ 
+        </script>
+
+    </head>
+    <body >
+       <div style="padding-bottom: 10px; padding-top: 10px; padding-left: 10px; height: 200px">
+            <span class="text-left">
+                <a href=" http://ar.islamway.com/quranflash/index.php">
+                    <img class="icon" src="../../pics/live_logo.png" id="start"/>
+                </a>
+
+            </span>
+            <span style="float: right; padding-right: 10px">
+
+                <img class="icon" src="../../pics/phone.png"/>
+                <img class="icon" src="../../pics/computer.png"/>
+            </span>
+            <center>
+                <span style="position: center">
+                    <img class="icon" src="../../pics/doaa.png"/>
+                    <a href="../../index.html">
+                        <img class="icon" src="../../pics/home.png" style="height: 100px; width: 100px"/>
+                    </a>
+                    <img class="icon" src="../../pics/praying.png"/>
+                </span>
+                <a href="#end">
+                    <span class="glyphicon glyphicon-circle-arrow-down" style="color: dodgerblue; float: right;"> </span>
+                </a>
+            </center>
+
+            
+        </div>
+        <div class="jumbotron col-lg-12 col-md-10 col-sm-10" style="background-color: white; ">
+            <div class="row">
+                
+                <div class="col-lg-6 col-md-5 col-sm-10" >
+                    <center>
+                        <img src="../pics/0594.jpg" class="img-responsive" style="background-color: white" id="img"/>
+                    </center>
+
+                    <ul class="pager">
+                        
+                        <li>
+                            <input type="button"  value="Previos" onclick="b();"/>
+                        </li>
+                        <li>
+                            <input type="button"  value="Next" onclick="a();"/>
+                        </li>
+                    </ul>
+                </div>
+                
+
+                <div class="col-lg-6 col-md-5 col-sm-10">
+                    <div class="col-lg-6 col-md-12 col-sm-12" style="height: 769px; width: 550px;background-color: white">
+                        <center id="parent">
+                            <p class="tab-pane" id="txt">
+                                <b style="color: lightblue">الطارق</b>
+                                <br>
+                                <mark>{1} وَالسَّمَاءِ وَالطَّارِقِ</mark>
+                                <br>
+                                وَالسَّمَاء وَالطَّارِق  أَصْله كُلّ آتٍ لَيْلًا وَمِنْهُ النُّجُوم لِطُلُوعِهَا لَيْلًا
+                                <br>
+                                <mark>{2} وَمَا أَدْرَاكَ مَا الطَّارِقُ</mark>
+                                <br>
+                                وَمَا أَدْرَاك  أَعْلَمك  مَا الطَّارِق  مُبْتَدَأ وَخَبَر فِي مَحَلّ الْمَفْعُول الثَّانِي لَأَدْرَى وَمَا بَعْد مَا الْأُولَى خَبَرهَا وَفِيهِ تَعْظِيم لِشَأْنِ الطَّارِق الْمُفَسَّر بِمَا بَعْده هُوَ
+                                <br>
+                                <mark>{3} النَّجْمُ الثَّاقِبُ</mark>
+                                <br>
+                                النَّجْم  أَيْ الثُّرَيَّا أَوْ كُلّ نَجْم  الثَّاقِب  الْمُضِيء لِثَقْبِهِ الظَّلَام بِضَوْئِهِ وَجَوَاب الْقَسَم
+                                <br>
+                                <mark>{4} إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ</mark>
+                                <br>
+                                إِنْ كُلّ نَفْس لَمَا عَلَيْهَا حَافِظ  بِتَخْفِيفِ مَا فَهِيَ مَزِيدَة وَإِنْ مُخَفَّفَة مِنْ الثَّقِيلَة وَاسْمهَا مَحْذُوف , أَيْ إِنَّهُ وَاللَّام فَارِقَة وَبِتَشْدِيدِهَا فَإِنْ نَافِيَة وَلَمَا بِمَعْنَى إِلَّا وَالْحَافِظ مِنْ الْمَلَائِكَة يَحْفَظ عَمَلهَا مِنْ خَيْر وَشَرّ
+                                <br>
+                                <mark>{5} فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ</mark>
+                                <br>
+                                فَلْيَنْظُرْ الْإِنْسَان  نَظَر اِعْتِبَار  مِمَّ خُلِقَ  مِنْ أَيّ شَيْء
+                                <br>
+                                <mark>{6} خُلِقَ مِنْ مَاءٍ دَافِقٍ</mark>
+                                <br>
+                                خُلِقَ مِنْ مَاء دَافِق  هَذَا جَوَاب قَوْله مِمَّ خُلِقَ ؟ خُلِقَ مِنْ مَاء دَافِق أَيْ ذِي اِنْدِفَاق مِنْ الرَّجُل وَالْمَرْأَة فِي رَحِمهَا
+                                <br>
+                                <mark>{7} يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ</mark>
+                                <br>
+                                يَخْرُج مِنْ بَيْن الصُّلْب  لِلرَّجُلِ  وَالتَّرَائِب  لِلْمَرْأَةِ وَهِيَ عِظَام الصَّدْر
+                                <br>
+                                <mark>8} إِنَّهُ عَلَى رَجْعِهِ لَقَادِرٌ</mark>{
+                                <br>
+                                إِنَّهُ  تَعَالَى  عَلَى رَجْعه  بَعْث الْإِنْسَان بَعْد مَوْته  لَقَادِر  فَإِذَا اِعْتَبَرَ أَصْله عَلِمَ أَنَّ الْقَادِر عَلَى ذَلِكَ قَادِر عَلَى بَعْثه
+                                <br>
+                                <mark>{9} يَوْمَ تُبْلَى السَّرَائِرُ</mark>
+                                <br>
+                                يَوْم تُبْلَى  تُخْتَبَر وَتُكْشَف  السَّرَائِر  ضَمَائِر الْقُلُوب فِي الْعَقَائِد وَالنِّيَّات
+                                <br>
+                                <mark>{10} فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ</mark>
+                                <br>
+                                فَمَا لَهُ  لِمُنْكِرِ الْبَعْث  مِنْ قُوَّة  يَمْتَنِع بِهَا مِنْ الْعَذَاب  وَلَا نَاصِر يَدْفَعهُ عَنْهُ
+                                <br>
+                                <mark>{11} وَالسَّمَاءِ ذَاتِ الرَّجْعِ</mark>
+                                <br>
+                                وَالسَّمَاء ذَات الرَّجْع  الْمَطَر لِعَوْدِهِ كُلّ حِين
+                                <br>
+                                <mark>{12} وَالْأَرْضِ ذَاتِ الصَّدْعِ</mark>
+                                <br>
+                                وَالْأَرْض ذَات الصَّدْع  الشَّقّ عَنْ النَّبَات
+                                <br>
+                                <mark>{13} إِنَّهُ لَقَوْلٌ فَصْلٌ</mark>
+                                <br>
+                                إِنَّهُ  أَيْ الْقُرْآن  لَقَوْل فَصْل  يَفْصِل بَيْن الْحَقّ وَالْبَاطِل
+                                <br>
+                                <mark>{14} وَمَا هُوَ بِالْهَزْلِ</mark>
+                                <br>
+                                وَمَا هُوَ بِالْهَزْلِ  بِاللَّعِبِ وَالْبَاطِل
+                                <br>
+                                <mark>{15} إِنَّهُمْ يَكِيدُونَ كَيْدًا</mark>
+                                <br>
+                                إِنَّهُمْ  أَيْ الْكُفَّار  يَكِيدُونَ كَيْدًا  يَعْمَلُونَ الْمَكَايِد لِلنَّبِيِّ صَلَّى اللَّه عَلَيْهِ وَسَلَّمَ
+                                <br>
+                                <mark>{16} وَأَكِيدُ كَيْدًا</mark>
+                                <br>
+                                وَأَكِيد كَيْدًا  أَسْتَدْرِجهُمْ مِنْ حَيْثُ لَا يَعْلَمُونَ
+                                <br>
+                                <mark>{17} فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا</mark>
+                                <br>
+                                فَمَهِّلْ  يَا مُحَمَّد  الْكَافِرِينَ أَمْهِلْهُمْ  تَأْكِيد حَسَّنَهُ مُخَالَفَة اللَّفْظ , أَيْ أَنْظِرْهُمْ  رُوَيْدًا  قَلِيلًا وَهُوَ مَصْدَر مُؤَكَّد لِمَعْنَى الْعَامِل مُصَغَّر رَوْد أَوْ أَرْوَاد عَلَى التَّرْخِيم وَقَدْ أَخَذَهُمْ اللَّه تَعَالَى بِبَدْرٍ وَنَسَخَ الْإِمْهَال بِآيَةِ السَّيْف , أَيْ الْأَمْر بِالْقِتَالِ وَالْجِهَاد .
+                                <br> 
+                                <b style="color: lightblue">الأعلى</b>
+                                <br>
+                                <mark>{1} سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى</mark>
+                                <br>
+                                سَبِّحْ اِسْم رَبّك  أَيْ نَزِّهْ رَبّك عَمَّا لَا يَلِيق بِهِ وَاسْم زَائِد  الْأَعْلَى  صِفَة لِرَبِّك
+                                <br>
+                                <mark>{2} الَّذِي خَلَقَ فَسَوَّى</mark>
+                                <br>
+                                الَّذِي خَلَقَ فَسَوَّى " مَخْلُوقه , جَعَلَهُ مُتَنَاسِب الْأَجْزَاء غَيْر مُتَفَاوِت
+                                <br>
+                                <mark>{3} وَالَّذِي قَدَّرَ فَهَدَى</mark>
+                                <br>
+                                وَاَلَّذِي قَدَّرَ  مَا شَاءَ  فَهَدَى  إِلَى مَا قَدَّرَهُ مِنْ خَيْر وَشَرّ
+                                <br>
+                                <mark>{4} وَالَّذِي أَخْرَجَ الْمَرْعَى</mark>
+                                <br>
+                                وَاَلَّذِي أَخْرَجَ الْمَرْعَى  أَنْبَتَ الْعُشْب
+                                <br>
+                                <mark>{5} فَجَعَلَهُ غُثَاءً أَحْوَى</mark>
+                                <br>
+                                فَجَعَلَهُ  بَعْد الْخُضْرَة  غُثَاء  جَافًّا هَشِيمًا  أَحَوَى  أَسْوَد يَابِسًا
+                                <br>
+                                <mark>{6} سَنُقْرِئُكَ فَلَا تَنْسَى</mark>
+                                <br>
+                                سَنُقْرِئُك  الْقُرْآن  فَلَا تَنْسَى  مَا تَقْرَؤُهُ
+                                <br>
+                                <mark>{7} إِلَّا مَا شَاءَ اللَّهُ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَى</mark>
+                                <br>
+                                إِلَّا مَا شَاءَ اللَّه  أَنْ تَنْسَاهُ بِنَسْخِ تِلَاوَته وَحُكْمه , وَكَانَ صَلَّى اللَّه عَلَيْهِ وَسَلَّمَ يَجْهَر بِالْقِرَاءَةِ مَعَ قِرَاءَة جِبْرِيل خَوْف النِّسْيَان فَكَأَنَّهُ قِيلَ لَهُ : لَا تَعْجَل بِهَا إِنَّك لَا تَنْسَى فَلَا تُتْعِب نَفْسك بِالْجَهْرِ بِهَا  إِنَّهُ  تَعَالَى  يَعْلَم الْجَهْر  مِنْ الْقَوْل وَالْفِعْل  وَمَا يَخْفَى  مِنْهُمَا
+                                <br>
+                                <mark>{8} وَنُيَسِّرُكَ لِلْيُسْرَى</mark>
+                                <br>
+                                وَنُيَسِّرُكَ لِلْيُسْرَى  لِلشَّرِيعَةِ السَّهْلَة وَهِيَ الْإِسْلَام
+                                <br>
+                                <mark>{9} فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَى</mark>
+                                <br>
+                                فَذَكِّرْ  عِظْ بِالْقُرْآنِ  إِنْ نَفَعَتْ الذِّكْرَى  مِنْ تَذْكِرَة الْمَذْكُور فِي سَيَذَّكَّرُ , يَعْنِي وَإِنْ لَمْ تَنْفَع وَنَفْعهَا لِبَعْضٍ وَعَدَم النَّفْع لِبَعْضٍ آخَر
+                                <br>
+                                <mark>{10} سَيَذَّكَّرُ مَنْ يَخْشَى</mark>
+                                <br>
+                                سَيَذَّكَّرُ  بِهَا  مَنْ يَخْشَى  يَخَاف اللَّه تَعَالَى كَآيَةِ
+                            </p>
+                        </center>
+                    </div>
+
+                   
+                </div>
+
+            </div>
+
+            
+
+
+            <br/><br/> <br/>
+        </div>
+        <div class="row"> </div>
+        <div>
+            <center id="con">
+                <audio controls="controls" style="width: 500px" id="audio">
+                    <source src="../sound/al_agamy_050.mp3" type="audio/mpeg" id="source" />
+                </audio><!-- replace chiled !-->
+                <aside class="shikh ">
+                <div class="panel-group">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" href="#collapse1"> Readers</a>
+                            </h4>
+                        </div>
+                        <div id="collapse1" class="panel-collapse collapse" style="background-color: white">
+                            <ul class="list-group list-inline">
+                               <!-- <li class="list-group-item"><input type="button" value="البراك"  onclick="s1();"/></li>!-->
+                                <li class="list-group-item"><input type="button" value="الحصري" onclick="s2();"/></li>
+                                <li class="list-group-item"><input type="button" value="السديس" onclick="s3();"/></li>
+                                <li class="list-group-item"><input type="button" value="الطبلاوي" onclick="s4();"/></li>
+                                <li class="list-group-item"><input type="button" value="العجمي"  onclick="s5();"/></li>
+                                <li class="list-group-item"><input type="button" value="المعيقلي" onclick="s6();"/></li>
+                                <li class="list-group-item"><input type="button" value="عبد الباسط" onclick="s7();"/></li>
+                                <li class="list-group-item"><input type="button" value="محمد جبريل" onclick="s8();"/></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </aside>
+            </center>
+        </div>
+        <footer>
+            <div class="text-center">
+                <ul>
+                    <li>Quran</li>
+                    <li>Suez Canal University</li>
+                </ul>
+                <ul>
+                    <li>
+                        <a href="">Blog</a>
+                    </li>
+                    <li>
+                        <a href="">Careers</a>
+                    </li>
+                    <li>
+                        <a href="">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a href="">Contact</a>
+                    </li>
+                </ul>
+                <ul>
+                    روابط اخرى
+                    <li>
+                        <a href="">SITEMAP</a>
+                    </li>
+                    <li>
+                        <a href="">SURAH YASIN, YASEEN (يس)</a>
+                    </li>
+                    <li>
+                        <a href="">AYAT AL-KURSI (آية الكرسي)</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li>&copy; All rights reserved 2017 <a href="#start">
+                        <span class="glyphicon glyphicon-circle-arrow-up" style="color: white; float: right" id="end"> </span>
+                    </a></li>
+
+                </ul>
+            </div>
+
+        </footer>
+    </body>
+
+</html>
