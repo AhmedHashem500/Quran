@@ -1,0 +1,139 @@
+﻿@font-face {
+    font-family: "moshaf";
+    src: url('fonts/almushaf.ttf') format("truetype");
+}
+
+.icon {
+    height: 50px;
+    width: 50px;
+}
+
+.searchDiv {
+    height: 50px;
+    width: 100%;
+    text-align: left;
+    padding-left: 5px;
+    padding-top: 5px;
+    position: relative;
+}
+
+.search {
+    height: 40px;
+    width: 92%;
+    padding: 5px;
+    border: none;
+    color: teal;
+    position: relative;
+}
+
+.wrapper {
+    width: 100%;
+    padding: 0 10px;
+}
+
+.soraNumber {
+    float: left;
+    color: cadetblue;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    z-index: 1;
+    background: #fff;
+    padding-left: 15px;
+    padding-top: 6px;
+}
+
+.soraAr {
+    float: right;
+    font-family: "moshaf";
+    font-weight: bold;
+    color: cadetblue;
+    font-size: 25px;
+    position: relative;
+    z-index: 1;
+    background: #fff;
+    padding-top: 3px;
+    padding-right: 15px;
+}
+
+.soraEn {
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    display: block;
+    //font-weight: bold;
+    color: gray;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-left: 10px;
+    border-top: 1px solid #ddd;
+    position: relative;
+    top: -8px;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    padding: 0;
+    margin: 20px 0 20px 8%;
+}
+
+#t {
+    font-size: 200%;
+}
+
+ul:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+footer {
+    font-family: 'Righteous', cursive;
+    font-size: 20px;
+    background: cadetblue;
+    margin-top: 100px;
+    padding: 30px 0;
+    padding-left: 30px;
+}
+
+footer:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+footer ul {
+    float: left;
+    padding: 0;
+    list-style-type: none;
+    color: #eee;
+    width: 23%;
+    margin-right: 1%;
+}
+
+footer li {
+    margin: 10px 0;
+}
+
+footer a {
+    color: #eee;
+    text-decoration: none;
+}
+
+#p {
+    position: relative;
+    width: 30%;
+}
+
+@media screen and (max-width: 650px) {
+    footer ul {
+        width: 98%;
+    }
+    #p {
+        position: relative;
+        width: 40%;
+    }
+}
